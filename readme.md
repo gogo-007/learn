@@ -1,1 +1,1 @@
-For learning purpose only
+This repository is mode to illustrate various git functionalities
